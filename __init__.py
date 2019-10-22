@@ -9,4 +9,4 @@ db = SQLAlchemy(app)
 migrate = Migrate(app, db)
 
 from app import routes, models
-
+#Flask-SQLAlchemy and Flask-Migrate initialization
