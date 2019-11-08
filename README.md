@@ -2,7 +2,7 @@
 
 
 
-**Troubleshoot tests is an essential software skill*
+*Troubleshoot tests is an essential software skill*
 
 
 ## Why Test Software:
